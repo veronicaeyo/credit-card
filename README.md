@@ -5,7 +5,7 @@ various techniques to steal credit card information and make unauthorized transa
 this project, we will explore a dataset containing credit card transactions and build models
 to predict fraudulent transactions.
 
-This dataset was downloaded fom this [link] https://www.kaggle.com/datasets/kartik2112/fraud-detection on kaggle.com
+This dataset was downloaded fom this [link]https://www.kaggle.com/datasets/kartik2112/fraud-detection on kaggle.com
 
 This is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
